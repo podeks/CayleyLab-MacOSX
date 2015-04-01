@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.pdokos.cayleylab">
+    <module_version install_time="1427854871968" last="true" origin="installer" specification_version="1.0">
+        <file crc="2750343003" name="config/Modules/org-pdokos-cayleylab.xml"/>
+        <file crc="3940618895" name="modules/org-pdokos-cayleylab.jar"/>
+    </module_version>
+</module>
