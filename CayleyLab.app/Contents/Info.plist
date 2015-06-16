@@ -4,13 +4,13 @@
   <dict>
 
     <key>CFBundleName</key>
-    <string>CayleyLab</string>
+    <string>cayleylab</string>
     
     <key>CFBundleVersion</key>
     <string>0.1</string>
     
     <key>CFBundleExecutable</key>
-    <string>CayleyLab</string>
+    <string>cayleylab</string>
     
     <key>CFBundlePackageType</key>
     <string>APPL</string>
@@ -25,6 +25,6 @@
     <string>6.0</string>
     
     <key>CFBundleIconFile</key>
-    <string>CayleyLab.icns</string>
+    <string>cayleylab.icns</string>
   </dict>
 </plist>
