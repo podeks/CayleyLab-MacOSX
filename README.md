@@ -1,7 +1,7 @@
 ## CayleyLab-MacOSX
 A MacOSX application, founded upon the podeks/MathLibraries module suite, for creating, analyzing, and storing Cayley graph structures on various finite groups.
 
-Assuming 4 gigabytes of RAM, this application is capable of building Cayley graphs of size up to 5 million vertices and 10 million edges (one can push a little higher than this).  The construction of a Cayley graph proceeds at a rate of about 50,000-100,000 edges per second.
+Assuming 4 gigabytes of RAM, this application is capable of producing Cayley graphs of size up to 5 million vertices and 10 million edges (one can push a little higher than this).  The construction of a Cayley graph proceeds at a rate of about 50,000-100,000 edges per second.
 
 Click on 'Download ZIP' to download this application. After unzipping the repository folder CayleyLab-MacOSX-master, open it and move the application icon into your Applications folder. The zip file and repository folder can then be discarded. Double click the icon to run the application.
 
