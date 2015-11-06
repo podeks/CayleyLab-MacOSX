@@ -34,10 +34,8 @@ GSp<sub>n</sub>, Sp<sub>n</sub>, PGSp<sub>n</sub>, PSp<sub>n</sub> (Symplectic S
 U<sub>n</sub>, SU<sub>n</sub>, PU<sub>n</sub>, PSU<sub>n</sub> (Unitary and Special Unitary groups and their projective groups) for n>=3.<br>
 The Suzuki group Sz(8)<br> 
 The Dickson group G<sub>2</sub>(3)<br>
-<br>
 #####Symmetric and Alternating groups:<br>
 S<sub>n</sub> and A<sub>n</sub><br>
-<br>
 #####The five sporadic simple groups of order less than five million (all less than one million):<br>
 M<sub>11</sub> (order 7,920)<br>
 M<sub>12</sub> (order 95,040)<br>
